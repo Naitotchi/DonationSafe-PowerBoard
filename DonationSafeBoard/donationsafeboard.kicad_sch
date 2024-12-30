@@ -396,42 +396,26 @@
 		)
 	)
 	(junction
-		(at 135.89 83.82)
+		(at 139.7 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "25c98f2f-f008-4068-b444-6ef8d0a091b3")
+		(uuid "a9e99560-1583-46ef-b05f-7ff6f429c593")
 	)
 	(junction
-		(at 152.4 83.82)
+		(at 139.7 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7cf9264b-450b-4587-bdaa-e44e53e0c172")
+		(uuid "d487a587-2c16-4f1e-80e8-bf499acedfe1")
 	)
 	(junction
-		(at 135.89 52.07)
+		(at 156.21 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "90a9cba7-eef2-43f8-a007-072c44687094")
-	)
-	(junction
-		(at 156.21 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ea4b4fa4-acdc-471c-9969-85ca01ceccf3")
+		(uuid "e086f4b1-3d0c-4aeb-b420-8f5fe75468c7")
 	)
 	(wire
 		(pts
-			(xy 156.21 83.82) (xy 171.45 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "05b89b5b-b335-422d-8da2-c8a029f48bd6")
-	)
-	(wire
-		(pts
-			(xy 147.32 93.98) (xy 152.4 93.98)
+			(xy 153.67 80.01) (xy 156.21 80.01)
 		)
 		(stroke
 			(width 0)
@@ -441,7 +425,27 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 52.07) (xy 135.89 52.07)
+			(xy 139.7 52.07) (xy 139.7 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42719a58-493d-4dba-aff8-789a18a88158")
+	)
+	(wire
+		(pts
+			(xy 156.21 69.85) (xy 153.67 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "441ad3f6-139a-4efd-9995-cec94ace48f4")
+	)
+	(wire
+		(pts
+			(xy 133.35 52.07) (xy 139.7 52.07)
 		)
 		(stroke
 			(width 0)
@@ -451,37 +455,27 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 83.82) (xy 152.4 83.82)
+			(xy 143.51 69.85) (xy 139.7 69.85)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7c9507a2-fc4d-419c-9f66-1e31884b7078")
+		(uuid "6a53a931-30b6-46b6-bac2-a9d84267253e")
 	)
 	(wire
 		(pts
-			(xy 146.05 52.07) (xy 146.05 44.45)
+			(xy 139.7 52.07) (xy 143.51 52.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8df436ec-d5ba-4c59-8ad6-73aac2c926a9")
+		(uuid "a4e9ca6f-9b18-43d4-8bc9-cacb1ce86a7f")
 	)
 	(wire
 		(pts
-			(xy 135.89 52.07) (xy 135.89 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "afb0971a-b9be-4994-a101-daed39faf3dd")
-	)
-	(wire
-		(pts
-			(xy 152.4 93.98) (xy 152.4 83.82)
+			(xy 156.21 69.85) (xy 156.21 80.01)
 		)
 		(stroke
 			(width 0)
@@ -491,7 +485,17 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 83.82) (xy 135.89 93.98)
+			(xy 156.21 52.07) (xy 156.21 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4e22a0f-54e7-486f-bf42-cc3c17ae1b9f")
+	)
+	(wire
+		(pts
+			(xy 139.7 69.85) (xy 139.7 80.01)
 		)
 		(stroke
 			(width 0)
@@ -501,17 +505,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 52.07) (xy 146.05 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cdaa3e1e-d4e0-43f2-9ed1-1fe02bd5f445")
-	)
-	(wire
-		(pts
-			(xy 156.21 44.45) (xy 156.21 83.82)
+			(xy 153.67 52.07) (xy 156.21 52.07)
 		)
 		(stroke
 			(width 0)
@@ -521,7 +515,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 83.82) (xy 171.45 90.17)
+			(xy 177.8 69.85) (xy 177.8 77.47)
 		)
 		(stroke
 			(width 0)
@@ -531,7 +525,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 83.82) (xy 146.05 83.82)
+			(xy 156.21 69.85) (xy 177.8 69.85)
 		)
 		(stroke
 			(width 0)
@@ -541,7 +535,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 93.98) (xy 137.16 93.98)
+			(xy 139.7 80.01) (xy 143.51 80.01)
 		)
 		(stroke
 			(width 0)
@@ -619,7 +613,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 142.24 93.98 0)
+		(at 148.59 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -628,7 +622,7 @@
 		(fields_autoplaced yes)
 		(uuid "43293a42-d6e3-4b33-be3a-faabebac19bf")
 		(property "Reference" "CASE_BUTTON1"
-			(at 142.24 87.63 0)
+			(at 148.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -636,7 +630,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 142.24 90.17 0)
+			(at 148.59 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -644,7 +638,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
-			(at 142.24 93.98 0)
+			(at 148.59 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -653,7 +647,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 142.24 93.98 0)
+			(at 148.59 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -662,7 +656,7 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 142.24 93.98 0)
+			(at 148.59 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -687,7 +681,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 140.97 83.82 0)
+		(at 148.59 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -696,7 +690,7 @@
 		(fields_autoplaced yes)
 		(uuid "6026569e-3d0c-4e02-b78a-9dd6b99d42f5")
 		(property "Reference" "JUMPER1"
-			(at 140.97 77.47 0)
+			(at 148.59 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -704,7 +698,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 140.97 80.01 0)
+			(at 148.59 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -712,7 +706,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 140.97 83.82 0)
+			(at 148.59 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -721,7 +715,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.97 83.82 0)
+			(at 148.59 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -730,7 +724,7 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 140.97 83.82 0)
+			(at 148.59 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -755,7 +749,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 151.13 44.45 180)
+		(at 148.59 52.07 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -764,7 +758,7 @@
 		(fields_autoplaced yes)
 		(uuid "b151a821-1c54-4a6e-9160-7090c6c2c59e")
 		(property "Reference" "SWITCH1"
-			(at 151.13 39.37 0)
+			(at 148.59 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -772,7 +766,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 151.13 41.91 0)
+			(at 148.59 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -780,7 +774,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 151.13 44.45 0)
+			(at 148.59 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -789,7 +783,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 151.13 44.45 0)
+			(at 148.59 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -798,7 +792,7 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 151.13 44.45 0)
+			(at 148.59 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -823,7 +817,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 171.45 92.71 0)
+		(at 177.8 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -832,7 +826,7 @@
 		(fields_autoplaced yes)
 		(uuid "c2db248a-033f-4f2a-a18f-a42dda50d275")
 		(property "Reference" "#PWR02"
-			(at 171.45 99.06 0)
+			(at 177.8 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -841,7 +835,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 171.45 97.79 0)
+			(at 177.8 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -849,7 +843,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 92.71 0)
+			(at 177.8 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -858,7 +852,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 92.71 0)
+			(at 177.8 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -867,7 +861,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 171.45 92.71 0)
+			(at 177.8 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -889,7 +883,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 166.37 90.17 0)
+		(at 172.72 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -898,7 +892,7 @@
 		(fields_autoplaced yes)
 		(uuid "cb58fc42-d041-40f9-a71b-4b6a0c343b57")
 		(property "Reference" "OUT1"
-			(at 167.005 85.09 0)
+			(at 173.355 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -906,7 +900,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 167.005 87.63 0)
+			(at 173.355 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -914,7 +908,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
-			(at 166.37 90.17 0)
+			(at 172.72 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -923,7 +917,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 166.37 90.17 0)
+			(at 172.72 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -932,7 +926,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 166.37 90.17 0)
+			(at 172.72 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
